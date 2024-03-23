@@ -1,5 +1,5 @@
-![MasterHead](<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
-    alt="MasterHead">)]()
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
+    alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Ahmad Irtaza</h1>
 <h3 align="center">A passionate SoftWare Engineering from Pakistan</h3>
 

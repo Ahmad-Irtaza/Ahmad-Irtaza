@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="ahmad irtaza" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/ahmad irtaza" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/23546091/ahmad-irtaza"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="ahmad irtaza" height="30" width="40" /></a>
     <a href="https://instagram.com/irtaza_butt007" target="blank"><img align="center"

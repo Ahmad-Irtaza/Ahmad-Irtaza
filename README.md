@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently **Exploring new technologies & Learning more about Programming Languages, Web And Android Apps.**
 
-- 👨🏻‍💻 About Me **🎓 Studying Computer Science at FAST NUCES.**
+- 👨🏻‍💻 About Me **🎓 Studying Soft Ware Engineering at FAST NUCES.**
 
 - 💬 Ask me about **Anything**
 

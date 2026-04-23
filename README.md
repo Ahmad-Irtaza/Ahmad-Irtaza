@@ -50,10 +50,6 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash" />
 </p>
 
-- 🚀 **RunPod** (GPU Cloud for AI workloads & deployments)
-- 🐳 **Docker** (Containerization & deployment)
-- ☸️ **Kubernetes** (Container orchestration)
-
 ---
 
 ## 📊 GitHub Stats

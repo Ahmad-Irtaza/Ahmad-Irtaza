@@ -10,10 +10,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently exploring **Programming, Web Development & Android Apps**
+- 🌱 I’m currently exploring **AI, Programming, Web Development & Cloud Technologies**
 - 🎓 Studying **Software Engineering at FAST NUCES**
-- 💬 Ask me about **Anything**
-- ⚡ Fun fact: **Active on Instagram & LinkedIn**
+- 💬 Ask me about **AI, Full Stack Development & System Design**
+- ⚡ Fun fact: **Active on LinkedIn & building cool projects**
 
 ---
 
@@ -40,8 +40,19 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,python,java,php,mysql,mongodb,sqlite,tensorflow,numpy,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,python,java,php,rust,mysql,mongodb,sqlite,tensorflow,numpy,linux,bash,docker,kubernetes" />
 </p>
+
+---
+
+## ⚙️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash" />
+</p>
+
+- 🚀 **RunPod** (GPU Cloud for AI workloads & deployments)
+- 🐳 **Docker** (Containerization & deployment)
+- ☸️ **Kubernetes** (Container orchestration)
 
 ---
 

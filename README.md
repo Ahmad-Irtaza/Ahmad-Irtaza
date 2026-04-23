@@ -3,60 +3,64 @@
 <h1 align="center">Hi 👋, I'm Ahmad Irtaza</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmad-irtaza&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-irtaza" />
 </p>
 
-- 🌱 I’m currently **exploring new technologies and learning more about Programming Languages, Web, and Android Apps.**
+---
 
-- 👨🏻‍💻 About Me: **🎓 Studying Software Engineering at FAST NUCES.**
-
+## 🚀 About Me
+- 🌱 I’m currently exploring **Programming, Web Development & Android Apps**
+- 🎓 Studying **Software Engineering at FAST NUCES**
 - 💬 Ask me about **Anything**
-
-- 📫 How to reach me:  
-  **Email:** irtaza.butt.9316@gmail.com  
-  **Phone:** +92 336 6911319 / +92 325 0773068  
-
-- ⚡ Fun fact: **Available on Instagram & LinkedIn**
+- ⚡ Fun fact: **Active on Instagram & LinkedIn**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 📫 Contact Me
+- 📧 Email: **irtaza.butt.9316@gmail.com**
+- 📱 Phone: **+92 336 6911319 / +92 325 0773068**
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
 <a href="https://linkedin.com/in/ahmad-irtaza" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
-
 <a href="https://stackoverflow.com/users/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" width="50"/>
 </a>
-
 <a href="https://instagram.com/irtaza_butt007" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,python,java,php,mysql,mongodb,sqlite,tensorflow,numpy,linux,bash" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-irtaza&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,python,java,php,mysql,mongodb,sqlite,tensorflow,numpy,pandas,linux,bash" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-irtaza&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-irtaza&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-<!-- GitHub Stats (optional) -->
-
-<!--
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-irtaza&show_icons=true&layout=compact" />
+## 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmad-irtaza&theme=tokyo-night" />
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-irtaza&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-irtaza" />
-</p>
--->

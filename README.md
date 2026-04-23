@@ -40,7 +40,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,python,java,php,rust,mysql,mongodb,sqlite,tensorflow,numpy,linux,bash,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,python,java,php,rust,mysql,mongodb,sqlite,tensorflow,numpy" />
 </p>
 
 ---
